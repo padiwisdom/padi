@@ -57,7 +57,7 @@ float a;
        cout << "No  grading found for your score ";
     }
 
-    map();
+    
     return 0;
 
 
